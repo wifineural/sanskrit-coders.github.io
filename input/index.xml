@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Input on संस्कृत-साङ्गणकाः Sanskrit Programmers</title>
+    <link>https://sanskrit-coders.github.io/input/</link>
+    <description>Recent content in &#43;Input on संस्कृत-साङ्गणकाः Sanskrit Programmers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://sanskrit-coders.github.io/input/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IME/ typing</title>
+      <link>https://sanskrit-coders.github.io/input/ime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanskrit-coders.github.io/input/ime/</guid>
+      <description>Multi-platform solutions  Keyman (from the christian org SIL)  Downloaded site here. devanAgarI ITRANS-based vedic keyboard - KM cloud.  web based version here.      Linux m17n with ibus. Necessary packages:  debian search here.  Suggested ubuntu packages: ibus sanskrit iBus-m17n ibus-qt4 m17n-db m17n-contrib ttf-indic-fonts . See our note here.  Debugging / update tips  Restart ibus: ibus-daemon -Rd MDEBUG_INPUT=1 m17n-edit &amp;ndash;im hi-optitransv2 Configure: m17n-im-config or http://i.</description>
+    </item>
+    
+    <item>
+      <title>Optitrans</title>
+      <link>https://sanskrit-coders.github.io/input/optitrans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanskrit-coders.github.io/input/optitrans/</guid>
+      <description>Objective OptiTrans defines a simple set of rules to produce characters in Indic scripts using ASCII characters. These rules are defined by a transiteration map, and meta-rules describing contextual changes in the interpretation of these rules.
+Don&#39;t worry - It is simple. Though the rules are intelleligently designed (building on prior experience and expertise), there is no machine learning involved in the actual application of these rules.
+Desiderata (Requirements). The (sometimes competing) objectives are</description>
+    </item>
+    
+    <item>
+      <title>Transliteration</title>
+      <link>https://sanskrit-coders.github.io/input/transliteration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanskrit-coders.github.io/input/transliteration/</guid>
+      <description>Some tools/ websites (1W, 2W, ) enable viewing text in script of reader&#39;s choice. See separate page here.
+Transliteration tools, encoding converters Other lists  Technical Hindi list  Windows  bhAShA IME with BhashaTrans by venkaTesh is a very powerful free tool for converting archaic encodings to Unicode. Example: SP19.  Web tools  Vindodh&#39;s aksharamukha - py, php Shreevatsa LearnSanskrit (Arun) Js ACzoom [flexible table] H Wikimedia BU, BU Dicrunch D C Rd Rp Ar Other tools to convert old custom fonts to unicode (P, T).</description>
+    </item>
+    
+  </channel>
+</rss>
